@@ -1,0 +1,32 @@
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# Data files (keep CSVs local)
+data/
+*.csv
+*.xlsx
+*.json
+*.zip
+*.tar
+*.gz
+
+# Model artifacts (keep trained models local)
+models/
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
