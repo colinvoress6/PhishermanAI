@@ -1,0 +1,7 @@
+Your Account Has Been Locked
+Hello,
+
+We detected suspicious activity on your account. Please click the link below to verify your account:
+http://malicious-link.com
+
+Thank you.
